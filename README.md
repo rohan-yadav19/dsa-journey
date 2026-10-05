@@ -36,3 +36,11 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 ---
 
 ⭐ This repository contains my personal DSA practice and learning journey.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0009-palindrome-number/) | Easy |
+<!---LeetCode Topics End-->
