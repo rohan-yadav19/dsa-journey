@@ -44,4 +44,8 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/rohan-yadav19/dsa-journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0009-palindrome-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/rohan-yadav19/dsa-journey/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
