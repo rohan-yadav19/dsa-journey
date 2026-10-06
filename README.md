@@ -42,5 +42,6 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/rohan-yadav19/dsa-journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
