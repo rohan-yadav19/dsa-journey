@@ -54,10 +54,12 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rohan-yadav19/dsa-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/rohan-yadav19/dsa-journey/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rohan-yadav19/dsa-journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
