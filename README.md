@@ -48,10 +48,12 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rohan-yadav19/dsa-journey/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0014-longest-common-prefix](https://github.com/rohan-yadav19/dsa-journey/tree/main/0014-longest-common-prefix/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rohan-yadav19/dsa-journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/rohan-yadav19/dsa-journey/tree/main/0014-longest-common-prefix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +62,8 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rohan-yadav19/dsa-journey/tree/main/0011-container-with-most-water/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rohan-yadav19/dsa-journey/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
