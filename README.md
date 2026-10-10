@@ -45,6 +45,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0007-reverse-integer](https://github.com/rohan-yadav19/dsa-journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/rohan-yadav19/dsa-journey/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/rohan-yadav19/dsa-journey/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/rohan-yadav19/dsa-journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/rohan-yadav19/dsa-journey/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/rohan-yadav19/dsa-journey/tree/main/0066-plus-one/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
