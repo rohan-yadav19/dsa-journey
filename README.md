@@ -61,6 +61,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0048-rotate-image](https://github.com/rohan-yadav19/dsa-journey/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/rohan-yadav19/dsa-journey/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/rohan-yadav19/dsa-journey/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/rohan-yadav19/dsa-journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/rohan-yadav19/dsa-journey/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
