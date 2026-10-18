@@ -51,6 +51,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rohan-yadav19/dsa-journey/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/rohan-yadav19/dsa-journey/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/rohan-yadav19/dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0075-sort-colors](https://github.com/rohan-yadav19/dsa-journey/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/rohan-yadav19/dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
