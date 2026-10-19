@@ -68,6 +68,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohan-yadav19/dsa-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-yadav19/dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/rohan-yadav19/dsa-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0042-trapping-rain-water](https://github.com/rohan-yadav19/dsa-journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohan-yadav19/dsa-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/rohan-yadav19/dsa-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
