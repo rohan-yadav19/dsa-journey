@@ -46,6 +46,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0009-palindrome-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/rohan-yadav19/dsa-journey/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/rohan-yadav19/dsa-journey/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-yadav19/dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rohan-yadav19/dsa-journey/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0189-rotate-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0088-merge-sorted-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/rohan-yadav19/dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/rohan-yadav19/dsa-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
