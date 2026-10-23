@@ -71,6 +71,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0128-longest-consecutive-sequence](https://github.com/rohan-yadav19/dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rohan-yadav19/dsa-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/rohan-yadav19/dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +133,16 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-yadav19/dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rohan-yadav19/dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rohan-yadav19/dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rohan-yadav19/dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
