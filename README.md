@@ -47,6 +47,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0048-rotate-image](https://github.com/rohan-yadav19/dsa-journey/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/rohan-yadav19/dsa-journey/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/rohan-yadav19/dsa-journey/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +163,12 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/rohan-yadav19/dsa-journey/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/rohan-yadav19/dsa-journey/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
