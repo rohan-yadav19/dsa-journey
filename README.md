@@ -55,6 +55,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0014-longest-common-prefix](https://github.com/rohan-yadav19/dsa-journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/rohan-yadav19/dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/rohan-yadav19/dsa-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/rohan-yadav19/dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0088-merge-sorted-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/rohan-yadav19/dsa-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/rohan-yadav19/dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-yadav19/dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/rohan-yadav19/dsa-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/rohan-yadav19/dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
