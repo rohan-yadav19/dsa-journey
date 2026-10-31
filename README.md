@@ -76,6 +76,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0209-minimum-size-subarray-sum](https://github.com/rohan-yadav19/dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/rohan-yadav19/dsa-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/rohan-yadav19/dsa-journey/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rohan-yadav19/dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/rohan-yadav19/dsa-journey/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
