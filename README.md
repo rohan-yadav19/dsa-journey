@@ -48,6 +48,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0066-plus-one](https://github.com/rohan-yadav19/dsa-journey/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/rohan-yadav19/dsa-journey/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0215-kth-largest-element-in-an-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/rohan-yadav19/dsa-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/rohan-yadav19/dsa-journey/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0215-kth-largest-element-in-an-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/rohan-yadav19/dsa-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/rohan-yadav19/dsa-journey/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0268-missing-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +142,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0128-longest-consecutive-sequence](https://github.com/rohan-yadav19/dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/rohan-yadav19/dsa-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/rohan-yadav19/dsa-journey/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0268-missing-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +151,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rohan-yadav19/dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +177,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/rohan-yadav19/dsa-journey/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
