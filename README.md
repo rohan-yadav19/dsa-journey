@@ -83,6 +83,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rohan-yadav19/dsa-journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rohan-yadav19/dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/rohan-yadav19/dsa-journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/rohan-yadav19/dsa-journey/tree/main/0075-sort-colors/) | Medium |
@@ -182,4 +183,8 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/rohan-yadav19/dsa-journey/tree/main/0231-power-of-two/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rohan-yadav19/dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
