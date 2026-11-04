@@ -91,6 +91,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0088-merge-sorted-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/rohan-yadav19/dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rohan-yadav19/dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/rohan-yadav19/dsa-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
@@ -143,6 +144,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-yadav19/dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rohan-yadav19/dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/rohan-yadav19/dsa-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/rohan-yadav19/dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0268-missing-number/) | Easy |
@@ -190,8 +192,10 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohan-yadav19/dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rohan-yadav19/dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rohan-yadav19/dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
