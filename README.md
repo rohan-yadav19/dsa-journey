@@ -49,6 +49,7 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | [0189-rotate-array](https://github.com/rohan-yadav19/dsa-journey/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/rohan-yadav19/dsa-journey/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/rohan-yadav19/dsa-journey/tree/main/0268-missing-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/rohan-yadav19/dsa-journey/tree/main/0319-bulb-switcher/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,4 +199,8 @@ Solve DSA problems regularly and build a strong foundation in problem solving, a
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rohan-yadav19/dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rohan-yadav19/dsa-journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/rohan-yadav19/dsa-journey/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
